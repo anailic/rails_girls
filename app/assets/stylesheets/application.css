@@ -13,7 +13,7 @@
  *= require_tree .
  *= require_self
  */
-body { padding-top: 100px; background-color: yellow;}
+body { padding-top: 100px; background-color: purple;}
 footer { margin-top: 100px; background-color: gray}
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; }
